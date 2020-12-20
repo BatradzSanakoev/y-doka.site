@@ -1,5 +1,5 @@
 ---
-title: try-catch
+title: "try-catch"
 name: try-catch
 author: windrushfarer
 co-authors:
@@ -125,6 +125,8 @@ try {
 }
 ```
 
+![блок-схема try...catch с finally](/assets/images/posts/js/try-catch/try-catch-finally.png)
+
 Наличие блока `finally` необязательно. `finally` можно использовать и без блока `catch`.
 
 ```javascript
@@ -201,7 +203,7 @@ try {
 }
 ```
 
-Однако если записать асинхронный код в синхронном стиле с помощью [async/await](/posts/js/doka/async-await), то в этом случае обработку ошибок можно осуществлять с помощью `try...catch`.
+Однако если записать асинхронный код в синхронном стиле с помощью [async/await](/js/doka/async-await), то в этом случае обработку ошибок можно осуществлять с помощью `try...catch`.
 
 ```javascript
 async function handlePromise() {

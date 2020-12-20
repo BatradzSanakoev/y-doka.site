@@ -1,5 +1,5 @@
 ---
-title: Promise. Метод finally
+title: "Promise. Метод finally"
 name: promise-finally
 author: N_Lopin
 co-authors:
@@ -10,7 +10,7 @@ summary:
   - файнали
 ---
 
-Эта статья связана с понятием [Promise](/posts/js/long/promise)
+Эта статья связана с понятием [Promise](/js/long/promise)
 
 ## Кратко
 

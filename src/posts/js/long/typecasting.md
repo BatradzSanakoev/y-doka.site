@@ -1,5 +1,5 @@
 ---
-title: Преобразование типов
+title: "Преобразование типов"
 name: typecasting
 author: bespoyasov
 co-authors:
@@ -158,7 +158,7 @@ typeof arrowFunction === "function"
 typeof function () {} === "function"
 ```
 
-Разницу между разными видами функций мы описали в статье о функциях [Функции](/posts/js/doka/function/).
+Разницу между разными видами функций мы описали в статье о функциях [Функции](/js/doka/function/).
 
 ## Undefined
 

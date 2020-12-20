@@ -1,5 +1,5 @@
 ---
-title: Почти всё в JavaScript — объект
+title: "Почти всё в JavaScript — объект"
 name: objects-objects-everywhere
 author: windrushfarer
 co-authors:
@@ -18,7 +18,7 @@ summary:
 
 ### Массивы и функции
 
-[Объект](/posts/js/doka/object) — это сущность с набором свойств. Мы можем добавлять, менять и удалять эти свойства.
+[Объект](/js/doka/object) — это сущность с набором свойств. Мы можем добавлять, менять и удалять эти свойства.
 
 ```javascript
 const programmer = { name: "John", level: "Junior" }

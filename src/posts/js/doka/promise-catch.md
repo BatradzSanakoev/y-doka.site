@@ -1,5 +1,5 @@
 ---
-title: Promise. Метод catch
+title: "Promise. Метод catch"
 name: promise-catch
 author: N_Lopin
 co-authors:
@@ -10,7 +10,7 @@ summary:
   - кэтч катч кеч
 ---
 
-Эта статья связана с понятием [Promise](/posts/js/long/promise)
+Эта статья связана с понятием [Promise](/js/long/promise)
 
 ## Кратко
 

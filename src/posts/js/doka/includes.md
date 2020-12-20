@@ -1,5 +1,5 @@
 ---
-title: includes
+title: "includes"
 name: includes
 author: N_Lopin
 co-authors:
@@ -10,7 +10,7 @@ summary:
 
 ## Кратко
 
-Этот метод определен у [массивов](/posts/js/doka/arrays/) и [строк](/posts/js/doka/string/).
+Этот метод определен у [массивов](/js/doka/arrays/) и [строк](/js/doka/string/).
 
 Для _массивов_: проверяет, есть ли искомый элемент в массиве.
 

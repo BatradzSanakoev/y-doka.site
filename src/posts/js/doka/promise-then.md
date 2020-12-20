@@ -1,5 +1,5 @@
 ---
-title: Promise. Метод then
+title: "Promise. Метод then"
 name: promise-then
 author: N_Lopin
 co-authors:
@@ -9,7 +9,7 @@ summary:
   - промис
 ---
 
-Эта статья связана с понятием [Promise](/posts/js/long/promise)
+Эта статья связана с понятием [Promise](/js/long/promise)
 
 ## Кратко
 
@@ -80,4 +80,4 @@ getPasswords().then(function (result) {
 })
 ```
 
-Для обработки ошибок используют метод [`catch`](/posts/js/doka/promise-catch)
+Для обработки ошибок используют метод [`catch`](/js/doka/promise-catch)

@@ -1,5 +1,5 @@
 ---
-title: text-shadow
+title: "text-shadow"
 name: text-shadow
 author: ABatickaya
 co-authors:
@@ -36,7 +36,7 @@ summary:
 
 ## Как пишется
 
-У тени для текста много общего с тенью для блока — [**box-shadow**](/posts/css/doka/box-shadow)
+У тени для текста много общего с тенью для блока — [**box-shadow**](/css/doka/box-shadow)
 
 Каждая тень состоит из следующих значений:
 

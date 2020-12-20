@@ -1,5 +1,5 @@
 ---
-title: for(iterator; condition; action) {}
+title: "for(iterator; condition; action) {}"
 name: for
 author: vindi-r
 co-authors:
@@ -16,7 +16,7 @@ summary:
 
 ## Кратко
 
-Управляющая конструкция, которая создает [цикл](/posts/js/doka/loop/) .
+Управляющая конструкция, которая создает [цикл](/js/doka/loop/) .
 
 ## Как пишется
 

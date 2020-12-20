@@ -1,5 +1,5 @@
 ---
-title: while
+title: "while"
 name: while
 author: N_Lopin
 co-authors:
@@ -16,7 +16,7 @@ summary:
 
 ## Кратко
 
-Управляющая конструкция, которая создает _[цикл](/posts/js/doka/loop)_.
+Управляющая конструкция, которая создает _[цикл](/js/doka/loop)_.
 
 ## Как пишется
 
