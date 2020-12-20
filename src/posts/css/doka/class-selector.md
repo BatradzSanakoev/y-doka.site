@@ -21,7 +21,7 @@ summary:
 <h3 class="article-title">Шнобелевская премия 2020</h3>
 ```
 
-Селектор ниже _найдёт_ все элементы, атрибут `class` которых равен `article-title`
+Селектор ниже _найдёт_ все элементы, значение атрибута `class` которых равен `article-title`
 
 ```css
 .article-title {
@@ -49,7 +49,11 @@ h2.article-title.title-primary {
 }
 ```
 
-<aside class="callout">
+:::callout ⚠️
+
+Обратите внимание: селектор `.article-title` эквивалентен [селектору по атрибуту](/css/doka/attribute-selector/) `[class~="article-title"]`
+
+:::
 
 ⚠️ Обратите внимание: селектор `.article-title` эквивалентен [селектору по атрибуту](/css/doka/attribute-selector/) `[class~="article-title"]`
 
@@ -61,7 +65,7 @@ h2.article-title.title-primary {
 
 ```html
 <label for="input" class="form-label text-invalid">Ваше имя:</label>
-<input id="input" type="text" placeholder="Только кириллица" />
+<input id="input" type="text" placeholder="Только кириллица">
 
 <p class="text-invalid warning">Вы не заполнили все поля</p>
 
@@ -80,7 +84,7 @@ h2.article-title.title-primary {
   color: red;
 }
 
-/* Если элементу добавить класс "warning", то перед текстом будет иконка с желтым треугольником */
+/* Если элементу добавить класс "warning", то перед текстом будет иконка с жёлтым треугольником */
 .warning::before {
   content: "⚠️ ";
 }
